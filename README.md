@@ -12,3 +12,6 @@ On a computer with a *server XMLrpc* I have host the connection with the *client
 In the end, the project didn't work out, but in the process I have learned a couple of things. Such as some basics of OpenCV, like converting a picture in an edge drawing, and understand how the *urcap toolpath* works, which are the steps and their implementations.
 [Toolpath_OpenCV](https://dinosaur.game/es/)
 
+### Deamon development
+Things will come in the next days...
+
